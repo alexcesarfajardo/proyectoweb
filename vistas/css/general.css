@@ -1,0 +1,26 @@
+body
+{
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+footer
+{
+    font-size: 14px;
+	text-align: center;
+}
+.box-principal
+{
+    margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+.titulo
+{
+	text-align: center;
+}
+.imagen-avatar
+{
+	height: 50px;
+	width: 50px;
+}
